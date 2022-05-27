@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ux/tdbwML3CHtzqgGR+T30hIfxNArSC6naqDH1iy2kJTn0VRG/1K+Aw2HioLpijAb0pEVz9zFeAaQyGrxMlBkw==",
+  "success": true,
+  "projectFilePath": "C:\\VisualStudioProjects\\Puzzle2\\Puzzle2\\Puzzle2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andr\\.nuget\\packages\\numsharp\\0.30.0\\numsharp.0.30.0.nupkg.sha512",
+    "C:\\Users\\andr\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
